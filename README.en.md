@@ -6,6 +6,13 @@
 
 # DEMO
 
+<video controls autoplay muted playsinline>
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.mp4"></source>
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.webm"></source>
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.mp.ogv"></source>
+  Current environment does not support video playback
+</video>
+
 ![demo](doc/demo.png)
 
 # Features

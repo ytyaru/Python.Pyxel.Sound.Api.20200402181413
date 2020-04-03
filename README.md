@@ -6,6 +6,13 @@
 
 # デモ
 
+<video controls autoplay muted playsinline>
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.mp4"></source>
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.webm"></source>
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.mp.ogv"></source>
+  ※現在の環境は動画再生に対応していません
+</video>
+
 ![demo](doc/demo.png)
 
 # 特徴
