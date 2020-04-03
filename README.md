@@ -6,6 +6,13 @@
 
 # デモ
 
+<audio preload="metadata" controls>
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.mp3" type="audio/mp3">
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.wav" type="audio/wav">
+  ※現在の環境は音声再生に対応していません
+</audio>
+
 <video controls autoplay muted playsinline>
   <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.mp4"></source>
   <source src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.Sound.Api.20200402181413/master/doc/demo.webm"></source>
